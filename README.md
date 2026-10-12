@@ -86,6 +86,6 @@ This repository documents my journey from writing my first C program to understa
 
 👨‍💻 Author
 
-Nishit Nayan
+Shruti Kumawat
 
 **Learning • Building • Growing 🚀**
